@@ -1,2 +1,0 @@
-# wxGeoMachines
-The final project of CSCI-470 Machine Learning course at Colorado School of Mines. Developed by the GeoMachines group, this application is capable of generating sonic logs using Machine Learning methods.  Two pre-trained models are available with the source code. The first one uses Random Forest, and the second one uses a Feed-Forward Neural Network (FFNN). There is also an implementation of a clustering method to remove outliers based on DBSCAN.
