@@ -39,9 +39,13 @@ In order to run this application you will need:
 
 * Scikit-learn - Simple and efficient tools for predictive data analysis
                  (https://scikit-learn.org/stable/)
+
 * TensorFlow   - End-to-end open-source platform for machine learning
                  (https://www.tensorflow.org/)
+
 * wxPython     - The cross-platform GUI toolkit for the Python language.
+                 (https://wxpython.org/)
+
 * lasio        - Python package to read and write Log ASCII Standard
                  (LAS) files (https://lasio.readthedocs.io/)
 
@@ -73,6 +77,7 @@ $ pythonw wxGeomechine.py
 Built With
 ---------------
 wxPython - The cross-platform GUI toolkit for the Python language.
+           (https://wxpython.org/)
 
 
 Authors
